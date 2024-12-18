@@ -12,8 +12,8 @@ This project contains automated tests using Cypress to verify user todos complet
 
 1. Clone the repository:
 
-    git clone https://github.com/your-username/WebPublishAutomation.git
-    cd WebPublishAutomation
+    git clone https://github.com/ritikb01/todoassignment.git
+    cd toDoTaskAssignment
 
 
 2. Install dependencies:
@@ -26,4 +26,4 @@ This project contains automated tests using Cypress to verify user todos complet
 To run the Cypress tests, use the following command:
 
 
-npx cypress open# todoassignment
+npx cypress open
