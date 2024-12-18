@@ -1,4 +1,4 @@
-# WebPublishAutomation
+# TodoTaskAssignment
 
 This project contains automated tests using Cypress to verify user todos completion.
 
