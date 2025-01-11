@@ -7,9 +7,9 @@ This repository contains Cypress tests for verifying the Bitcoin block transacti
 ```
 ├── cypress
 │   ├── integration
-│   │   ├── bitcoin-block-transaction.spec.js
-│   ├── support
-│   │   ├── bitcoin-block-transaction-pageobject.js
+|   |────Bitcoin Block Suite
+│   │    |── bitcoin-block-transaction.spec.js
+│   │    |── bitcoin-block-transaction-pageobject.js
 ├── README.md
 ```
 
